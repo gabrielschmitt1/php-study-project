@@ -1,8 +1,6 @@
 <!-- 
-
 Author: Gabriel Ribeiro Schmitt
 Data: 18/07/2017
-
 -->
 <h1>Cadastrar Empresa</h1>
 
@@ -66,14 +64,3 @@ Data: 18/07/2017
 		}
 	?>
 </table>
-
-
-
-
-
-
-
-
-
-
-

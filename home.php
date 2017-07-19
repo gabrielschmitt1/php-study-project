@@ -1,6 +1,6 @@
 <div class="jumbotron text-center">
-  <h1>Sistema de Vagas</h1>
-  <p>O site de vagas mais completo que você já conheceu!</p> 
+  <h1>Sistema de Teste</h1>
+  <p>Esse é um site de teste!</p> 
 </div>
 
 <div class="container">
